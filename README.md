@@ -10,41 +10,10 @@
 > 
 > **Advertencia:** Este código es para fines educativos y de pruebas de penetración éticas. Usa con precaución y solo en entornos autorizados. No promueve actividades ilegales.
 
-# 🚀 README.md - Nivel Élite
+🚀 Descripción General
+EliteBatchCracker es una evolución de un script Batch tradicional que automatiza la descarga, configuración y ejecución de herramientas como Perl, John the Ripper (JtR) y 7-Zip (7z). Originalmente diseñado para entornos Windows sin dependencias previas, ahora incorpora mejores prácticas modernas para hacerlo mantenible, seguro y escalable.
 
 ```markdown
-# CrackMaster Pro | Enterprise-Grade Password Recovery Suite
-
-![Status](https://img.shields.io/badge/status-production%20ready-brightgreen)
-![Security](https://img.shields.io/badge/security-hardened-blue)
-![Architecture](https://img.shields.io/badge/architecture-modular-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
-
----
-
-## 📋 Tabla de Contenidos
-
-- [Visión General](#visión-general)
-- [Diagnóstico Técnico](#diagnóstico-técnico)
-- [Roadmap de Modernización](#roadmap-de-modernización)
-- [Arquitectura Mejorada](#arquitectura-mejorada)
-- [Guía de Instalación](#guía-de-instalación)
-- [Seguridad & Compliance](#seguridad--compliance)
-- [Contribuir](#contribuir)
-
----
-
-## 🎯 Visión General
-
-**CrackMaster Pro** es una herramienta de automatización de recuperación de contraseñas que ha evolucionado desde un script Batch clásico a una **suite modular de nivel empresarial**, manteniendo portabilidad sin sacrificar seguridad.
-
-### ¿Por qué este proyecto?
-
-Este repositorio documenta la **transformación de un script de 1980 a una arquitectura moderna**, demostrando cómo llevar Batch al límite y luego trascenderlo.
-
-```
-Batch (Original) → PowerShell Core (Mejorado) → Go/Rust (Futuro)
-```
 
 ---
 
