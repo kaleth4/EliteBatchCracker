@@ -10,6 +10,8 @@
 > 
 > **Advertencia:** Este código es para fines educativos y de pruebas de penetración éticas. Usa con precaución y solo en entornos autorizados. No promueve actividades ilegales.
 
+```markdown
+
 🚀 Descripción General
 EliteBatchCracker es una evolución de un script Batch tradicional que automatiza la descarga, configuración y ejecución de herramientas como Perl, John the Ripper (JtR) y 7-Zip (7z). Originalmente diseñado para entornos Windows sin dependencias previas, ahora incorpora mejores prácticas modernas para hacerlo mantenible, seguro y escalable.
 
